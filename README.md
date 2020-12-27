@@ -1,6 +1,6 @@
 # React JS example using Bootstrap + Axios
 
-React JS example to consume the [spring-boot-rest-jwt-example](https://github.com/salimerid/spring-boot-rest-jwt-example) endpoints.
+React JS example to consume the [spring-boot-rest-jwt-example](https://github.com/pedropbazzo/react-axios) endpoints.
 
 ### What's inside
 
@@ -11,7 +11,7 @@ React JS example to consume the [spring-boot-rest-jwt-example](https://github.co
  
 ### Prerequisites
 
-Need to run [spring-boot-rest-jwt-example](https://github.com/salimerid/spring-boot-rest-jwt-example) for backend API.
+Need to run [spring-boot-rest-jwt-example](https://github.com/pedropbazzo/spring-boot-rest-jwt) for backend API.
  
      $ node --version
      v8.0.0
